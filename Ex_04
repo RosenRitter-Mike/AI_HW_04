@@ -1,0 +1,15 @@
+where is the underfit?
+
+Answer: Left to the dotted line. It has high bias, and low variance.
+
+where is the overfit?
+
+Answer: Right of the dotted line. It has low bias, and high variance.
+
+where is the ideal area?
+
+Answer: The ideal area is between the dotted lines, somewhere between them there is that
+"elbow point" where validation error only starts to increase and training error is already sufficiently low.
+
+
+use the dotted line in your answer, i.e. left to the dotted line
